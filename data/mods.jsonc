@@ -6982,9 +6982,7 @@
 			"id": "maxvollmer.deepwoodsmod",
 			"curse": 992429,
 			"nexus": 2571,
-			"github": "maxvollmer/DeepWoodsMod",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "maxvollmer/DeepWoodsMod"
 		},
 		{
 			"name": "Deep Woods Seasonal Obelisk",
