@@ -5051,9 +5051,7 @@
 			"author": "stardemod",
 			"id": "stardemod.CookingOverhaul",
 			"nexus": 24845,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": null
 		},
 		{
 			"name": "Cooking Skill",
@@ -6982,9 +6980,7 @@
 			"id": "maxvollmer.deepwoodsmod",
 			"curse": 992429,
 			"nexus": 2571,
-			"github": "maxvollmer/DeepWoodsMod",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "maxvollmer/DeepWoodsMod"
 		},
 		{
 			"name": "Deep Woods Seasonal Obelisk",
