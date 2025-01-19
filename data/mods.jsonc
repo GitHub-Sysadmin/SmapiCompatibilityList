@@ -14526,7 +14526,9 @@
 			"nexus": 2658,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Price Buffs](https://www.nexusmods.com/stardewvalley/mods/16209) instead."
 		},
 		{
 			"name": "Lost Book Menu",
