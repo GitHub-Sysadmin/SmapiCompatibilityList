@@ -3428,8 +3428,16 @@
 			"id": "Omegasis.BuildEndurance",
 			"nexus": 445,
 			"github": "janavarro95/Stardew_Valley_Mods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"summary": "uuse [Build Endurance Resurrected](#) instead.",
+			"status": "workaround"
+		},
+		{
+			"name": "Build Endurance Resurrected",
+			"author": "Zerashk07 (originally Alpha_Omegasis)",
+			"id": "ZerashkO7.BuildEnduranceResurrected",
+			"nexus": 31049,
+			"github": null
 		},
 		{
 			"name": "Builder's List",
