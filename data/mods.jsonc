@@ -2257,7 +2257,7 @@
 			"author": "RedstoneBoy",
 			"id": "RedstoneBoy.BetterCrafting",
 			"nexus": 2504,
-			"github": "RedstoneBoy/BetterCrafting",
+			"github": null,
 
 			"status": "abandoned",
 			"brokeIn": "Stardew Valley 1.4"
@@ -2283,7 +2283,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.BetterCrystalariums",
 			"nexus": 10907,
-			"github": "DecidedlyHuman/StardewValleyMods",
+			"github": "AlanDavison/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6.9"
 		},
@@ -2619,7 +2619,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.BetterReturnScepter",
 			"nexus": 11610,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Better RNG",
@@ -2758,7 +2758,7 @@
 			"author": "Rokugin",
 			"id": "Rokugin.BetterStardrops",
 			"nexus": 21360,
-			"github": "rokugin/StardewMods"
+			"github": "rokugin/BetterStardrops"
 		},
 		{
 			"name": "Better Statue Of Blessings",
@@ -3772,14 +3772,14 @@
 			"id": "furyx639.CarryChest",
 			"curse": 1169557,
 			"nexus": 30321,
-			"github": "LeFauxMatt/CarryChest"
+			"github": "LeFauxMatt/CarryChests"
 		},
 		{
 			"name": "Carry Your Pet",
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.CarryYourPet",
 			"nexus": 13009,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Car Warp, Decorative Cars", // changed in 1.3.0
@@ -4526,7 +4526,7 @@
 			"author": "Rokugin",
 			"id": "Rokugin.ClintsBackstock",
 			"nexus": 20886,
-			"github": "rokugin/StardewMods"
+			"github": "rokugin/ClintsBackstock"
 		},
 		{
 			"name": "Clock24",
@@ -4625,7 +4625,7 @@
 			"author": "rokugin",
 			"id": "rokugin.collector",
 			"nexus": 30110,
-			"github": null
+			"github": "rokugin/Collector"
 		},
 		{
 			"name": "Color Blind Mod, SDV Colorblind Mod",
@@ -4693,7 +4693,7 @@
 			"author": "rokugin",
 			"id": "rokugin.colorfulfishponds",
 			"nexus": 23615,
-			"github": "rokugin/StardewMods"
+			"github": "rokugin/ColorfulFishPonds"
 		},
 		{
 			"name": "Combat Controls",
@@ -6373,7 +6373,7 @@
 			"author": "Rokugin",
 			"id": "Rokugin.CustomLocksUpdated",
 			"nexus": 21148,
-			"github": "rokugin/StardewMods"
+			"github": "rokugin/CustomLocksUpdated"
 		},
 		{
 			"name": "Custom Machine Experience",
@@ -7231,7 +7231,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.DefaultWindowSize",
 			"nexus": 10939,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Delivery Service",
@@ -7455,7 +7455,7 @@
 			"id": "DecidedlyHuman.DialogueTester",
 			"nexus": 9887,
 			"moddrop": 1035899,
-			"github": "DecidedlyHuman/DialogueTester",
+			"github": "AlanDavison/StardewValleyMods",
 
 			"status": "abandoned"
 		},
@@ -7536,7 +7536,7 @@
 			"author": "calebstein1",
 			"id": "calebstein1.StardewDisableBuildingFade",
 			"nexus": 24558,
-			"github": "calebstein1/StardewDisableBuildingFade"
+			"github": null
 		},
 		{
 			"name": "Disable Gamepad, Disable Controller",
@@ -9027,7 +9027,7 @@
 			"author": "rokugin",
 			"id": "rokugin.extramapactions",
 			"nexus": 26849,
-			"github": null
+			"github": "rokugin/ExtraMapActions"
 		},
 		{
 			"name": "Extra Map Layers",
@@ -10187,7 +10187,7 @@
 			"author": "AztecViper",
 			"id": "aztecviper.fishOfStardewMod",
 			"nexus": 24870,
-			"github": "astecviper/AztecVipers-Fish-of-Stardew"
+			"github": null
 		},
 		{
 			"name": "Fish Pond Colors, Legendary Fish Ponds",
@@ -11487,7 +11487,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.GiveMeMyCursorBack",
 			"nexus": 9976,
-			"github": "DecidedlyHuman/GiveMeMyCursorBack"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "GlassHammer Hope to Rise, Hope to Rise Mod",
@@ -13317,7 +13317,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.SaveLoadedNotifier",
 			"nexus": 12826,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Intravenous Coffee",
@@ -14670,7 +14670,7 @@
 			"author": "bwdy",
 			"id": "bwdy.lockpicks",
 			"nexus": 3521,
-			"github": "bwdymods/SDV-Lockpicks"
+			"github": "Haphestia/SDV-Lockpicks"
 		},
 		{
 			"name": "Log Menu",
@@ -15207,7 +15207,7 @@
 			"id": "DecidedlyHuman.MappingExtensionsAndExtraProperties",
 			"curse": 1019064,
 			"nexus": 14493,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Map Teleport",
@@ -15478,7 +15478,7 @@
 			"author": "bwdy",
 			"id": "mod.kitchen.minecartpatcher, bwdymods.minecartpatcher", // before 1.0.3
 			"nexus": 11424,
-			"github": "bwdy/SDVModding",
+			"github": "Haphestia/SDVModding",
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -16016,7 +16016,7 @@
 			"author": "bwdy",
 			"id": "bwdy.moongates",
 			"nexus": 3545,
-			"github": "bwdymods/SDV-Moongates",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -18358,7 +18358,7 @@
 			"author": "Rokugin",
 			"id": "Rokugin.PassableDescents",
 			"nexus": 22592,
-			"github": "rokugin/StardewMods"
+			"github": "rokugin/PassableDescents"
 		},
 		{
 			"name": "Passable Ladders",
@@ -18518,7 +18518,7 @@
 			"author": "rokugin",
 			"id": "rokugin.perfectionexclusions",
 			"nexus": 31247,
-			"github": null
+			"github": "rokugin/PerfectionExclusions"
 		},
 		{
 			"name": "Perfection Tweaker",
@@ -18640,7 +18640,7 @@
 			"author": "bwdy",
 			"id": "bwdy.personaleffects",
 			"nexus": 3532,
-			"github": "bwdymods/SDV-PersonalEffects",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.4",
 			"retestWhenCompatible": [
@@ -18795,7 +18795,7 @@
 			"author": "rokugin",
 			"id": "rokugin.petstore",
 			"nexus": 28000,
-			"github": null
+			"github": "rokugin/PetStore"
 		},
 		{
 			"name": "PHDE Mob Spawner",
@@ -19074,7 +19074,7 @@
 			"id": "DecidedlyHuman.PlayerCoordinates",
 			"nexus": 7969,
 			"moddrop": 984961,
-			"github": "DecidedlyHuman/PlayerCoordinates"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Player Income Stats",
@@ -19220,7 +19220,7 @@
 			"author": "bwdy",
 			"id": "bwdy.polygamy",
 			"nexus": 3542,
-			"github": "bwdymods/SDV-Polygamy",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
@@ -19893,7 +19893,7 @@
 			"author": "NarlanMarlan",
 			"id": "narlan.projects",
 			"nexus": 3785,
-			"github": "NolanEastburn/ProjectS",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -20532,7 +20532,7 @@
 			"author": "rokugin",
 			"id": "rokugin.rmi",
 			"nexus": 28368,
-			"github": null
+			"github": "rokugin/RangedMachineInteractions"
 		},
 		{
 			"name": "Ranged Tools",
@@ -21290,7 +21290,7 @@
 			"author": "rokugin",
 			"id": "rokugin.robinbuildposition",
 			"nexus": 27753,
-			"github": null
+			"github": "rokugin/RobinBuildPosition"
 		},
 		{
 			"name": "Robin Upgrades Greenhouse, Upgrade Greenhouse With Robin",
@@ -21495,7 +21495,7 @@
 			"author": "Rokugin",
 			"id": "Rokugin.SafeLightningUpdated",
 			"nexus": 22783,
-			"github": "rokugin/StardewMods"
+			"github": "rokugin/SafeLightningUpdated"
 		},
 		{
 			"name": "Safer Bombs",
@@ -23093,7 +23093,7 @@
 			"author": "bwdy",
 			"id": "bwdy.sleepovers",
 			"nexus": 3531,
-			"github": "bwdymods/SDV-Sleepovers"
+			"github": null
 		},
 		{
 			"name": "Sleep Warning",
@@ -23298,7 +23298,7 @@
 			"id": "DecidedlyHuman.SmartBuilding",
 			"curse": 1019046,
 			"nexus": 11158,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Smart Cursor",
@@ -23318,7 +23318,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.SmartCursor",
 			"nexus": 13268,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Smarter Carpenters",
@@ -24154,7 +24154,7 @@
 			"author": "rokugin",
 			"id": "rokugin.crane",
 			"nexus": 25830,
-			"github": null
+			"github": "rokugin/StandaloneCraneGame"
 		},
 		{
 			"name": "Standardized Krobus",
@@ -24178,7 +24178,7 @@
 			"author": "bwdy",
 			"id": "bwdy.starbot",
 			"nexus": 4755,
-			"github": "bwdymods/SDV-Starbot",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.5"
 		},
@@ -26097,7 +26097,7 @@
 			"author": "DarcDio",
 			"id": "darcdio.transmutequality",
 			"nexus": 29818,
-			"github": "Thalzius/TransmuteQuality"
+			"github": null
 		},
 		{
 			"name": "Transparency Settings",
@@ -28103,7 +28103,7 @@
 			"author": "DecidedlyHuman",
 			"id": "DecidedlyHuman.ZoomPerMap",
 			"nexus": 22227,
-			"github": "DecidedlyHuman/StardewValleyMods"
+			"github": "AlanDavison/StardewValleyMods"
 		},
 		{
 			"name": "Zoomy Farmer",
